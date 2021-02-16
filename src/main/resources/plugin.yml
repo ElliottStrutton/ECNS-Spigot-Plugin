@@ -1,0 +1,7 @@
+name: ECNS Plugin
+version: ${project.version}
+main: com.ecns.ecnsplugin.ECNSPlugin
+api-version: 1.16
+load: STARTUP
+authors: [ ECNS ]
+website: https://github.com/ElliottStrutton/
